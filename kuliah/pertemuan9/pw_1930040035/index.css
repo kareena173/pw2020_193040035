@@ -1,0 +1,38 @@
+/* style */
+body {
+	font:14px/18px arial, sans-serif;
+	background-image: url(trees.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+table {
+	background-image: url(daun.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	margin-top: 130px;
+}
+
+.header{
+	padding:20px;
+	padding-bottom: 10px;
+}
+
+.header ul li {
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 10px;
+
+}
+
+.header a {
+	text-decoration: none;
+	color: salmon;
+	padding: 3px;
+}
+
+.content {
+	padding: 20px;
+}
